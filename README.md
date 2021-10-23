@@ -1,4 +1,5 @@
-### Hi there 👋 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=kristinand) 
+### Hi there 👋
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=kristinand) 
 
 <!--
 **kristinand/kristinand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
